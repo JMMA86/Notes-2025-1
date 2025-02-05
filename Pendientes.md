@@ -5,13 +5,13 @@
 - [ ] Ver los 4 videos de introducción (Lunes 10/2).
 
 ## Sistemas Operativos
-- [ ] Ver el video y hacer la guía (Jueves 4/2).
+- [x] Ver el video y hacer la guía (Jueves 4/2).
 
 ## Computación en Internet II
 - [ ] Nada por ahora.
 
 ## Gerencia de Proyectos
-- [ ] Nada por ahora.
+- [ ] Responder a las preguntas del Taller.
 
 ## Electiva Ética
 - [ ] Nada por ahora.
