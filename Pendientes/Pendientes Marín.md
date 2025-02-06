@@ -6,6 +6,7 @@
 
 ## Sistemas Operativos
 - [x] Ver el video y hacer la guía (Jueves 4/2).
+- [ ] Hacer el tutorial de instalación de Linux (Martes 11/2).
 
 ## Computación en Internet II
 - [ ] Nada por ahora.

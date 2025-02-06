@@ -12,139 +12,139 @@ Link del video: https://youtu.be/t0aRCeWoMHA?si=136_tLwm8-HbAOb7
 
 - Memoria, procesador (CPU) y dispositivos de entrada/salida.
 
-1. **¿Cuál es el nombre común que se emplea para referirse al programa principal del sistema operativo?**  
+3. **¿Cuál es el nombre común que se emplea para referirse al programa principal del sistema operativo?**  
 
 - Kernel o núcleo.
 
-2. **¿Qué incluyen generalmente los sistemas operativos móviles, además del núcleo del sistema operativo?**  
+4. **¿Qué incluyen generalmente los sistemas operativos móviles, además del núcleo del sistema operativo?**  
 
 - Aplicaciones integradas, una interfaz de usuario optimizada y controladores para gestionar sensores y conectividad.
 
 ## SECCIÓN 1.2
 
-3. **¿Qué es una interrupción?**  
+5. **¿Qué es una interrupción?**  
 
 - Es un mecanismo que permite a los dispositivos de hardware notificar al procesador que requieren atención.
 
-4. **¿Cuál es el mecanismo de disparo de una interrupción?**  
+6. **¿Cuál es el mecanismo de disparo de una interrupción?**  
 
 - Se genera cuando un dispositivo o proceso necesita la atención del CPU y este suspende temporalmente su ejecución para atenderla.
 
-5. **¿Cuál es una ventaja de emplear una unidad de estado sólido en lugar de un disco magnético?**  
+7. **¿Cuál es una ventaja de emplear una unidad de estado sólido en lugar de un disco magnético?**  
 
 - Mayor velocidad de acceso a los datos y menor consumo de energía.
 
-6. **¿Cuál es la diferencia entre almacenamiento volátil y no volátil?**  
+8. **¿Cuál es la diferencia entre almacenamiento volátil y no volátil?**  
 
 - El almacenamiento volátil pierde los datos cuando se apaga el sistema, mientras que el no volátil los conserva.
 
 ## SECCIÓN 1.3
 
-7. **Mencione al menos dos ventajas de los sistemas multiprocesador.**  
+9. **Mencione al menos dos ventajas de los sistemas multiprocesador.**  
 
 - Mayor rendimiento y tolerancia a fallos.
 
-8. **(Verdadero o falso) El sistema multiprocesador más común emplea multiprocesamiento asimétrico.**  
+10. **(Verdadero o falso) El sistema multiprocesador más común emplea multiprocesamiento asimétrico.**  
 
 - Falso, el multiprocesamiento simétrico es más común.
 
-9. **¿Cuál es el nombre de un sistema multiprocesador que emplea múltiples núcleos de computación?**  
+11. **¿Cuál es el nombre de un sistema multiprocesador que emplea múltiples núcleos de computación?**  
 
 - Sistema multinúcleo.
 
-10. **¿Cómo difiere un sistema en clúster de un sistema multinúcleo?**  
+12. **¿Cómo difiere un sistema en clúster de un sistema multinúcleo?**  
 
 - Un sistema en clúster consiste en múltiples computadoras interconectadas, mientras que un sistema multinúcleo tiene varios núcleos dentro de un solo procesador.
 
 ## SECCIÓN 1.4
 
-11. **¿Cómo incrementa la multiprogramación el uso de la CPU?**  
+13. **¿Cómo incrementa la multiprogramación el uso de la CPU?**  
 
 - Permitiendo que múltiples procesos compartan el tiempo de CPU, evitando que esta permanezca inactiva.
 
-12. **¿Cómo se denomina un programa que ha sido cargado y se está ejecutando?**  
+14. **¿Cómo se denomina un programa que ha sido cargado y se está ejecutando?**  
 
 - Proceso.
 
-13. **¿Cuál parte del sistema operativo toma la decisión de qué trabajo va a ejecutarse?**  
+15. **¿Cuál parte del sistema operativo toma la decisión de qué trabajo va a ejecutarse?**  
 
 - El planificador del sistema operativo.
 
-14. **¿Cuáles son los dos modos de operación de un sistema operativo?**  
+16. **¿Cuáles son los dos modos de operación de un sistema operativo?**  
 
 - Modo usuario y modo supervisor.
 
-15. **¿Cuál es el modo del sistema en el momento del arranque (boot)?**  
+17. **¿Cuál es el modo del sistema en el momento del arranque (boot)?**  
 
 - Modo supervisor.
 
-16. **¿Cuál es el modo del sistema cuando el sistema operativo obtiene el control?**  
+18. **¿Cuál es el modo del sistema cuando el sistema operativo obtiene el control?**  
 
 - Modo supervisor.
 
-17. **¿Cuál es el modo del sistema cuando se está ejecutando un programa de usuario?**  
+19. **¿Cuál es el modo del sistema cuando se está ejecutando un programa de usuario?**  
 
 - Modo usuario.
 
 ## SECCIÓN 1.5
 
-18. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de la memoria.**  
+20. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de la memoria.**  
 
 - Asignación de memoria a procesos y liberación de memoria cuando ya no se necesita.
 
-19. **(Verdadero o falso) La gestión de archivos es uno de los aspectos más visibles de un sistema operativo.**  
+21. **(Verdadero o falso) La gestión de archivos es uno de los aspectos más visibles de un sistema operativo.**  
 
 - Verdadero.
 
-20. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de los archivos.**  
+22. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de los archivos.**  
 
 - Creación y eliminación de archivos.
 
-21. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de los discos.**  
+23. **Mencione al menos dos actividades que realiza el sistema operativo con relación a la gestión de los discos.**  
 
 - Asignación de espacio en disco y organización de los archivos almacenados.
 
-22. **Ordene los siguientes medios de almacenamiento del más rápido al más lento, según el tiempo de acceso:**  
+24. **Ordene los siguientes medios de almacenamiento del más rápido al más lento, según el tiempo de acceso:**  
 
 - Registros, caché, memoria principal, unidad de estado sólido, discos magnéticos.
 
 ## SECCIÓN 1.6
 
-23. **¿Cuál es la diferencia entre protección y seguridad?**  
+25. **¿Cuál es la diferencia entre protección y seguridad?**  
 
 - Protección impide que los procesos interfieran entre sí, mientras que seguridad protege los datos del acceso no autorizado.
 
 ## SECCIÓN 1.7
 
-24. **Mencione en qué consiste la virtualización.**  
+26. **Mencione en qué consiste la virtualización.**  
 
 - Consiste en ejecutar múltiples sistemas operativos en una misma máquina mediante el uso de hipervisores.
 
 ## SECCIÓN 1.8
 
-25. **Mencione en qué consiste un sistema distribuido.**  
+27. **Mencione en qué consiste un sistema distribuido.**  
 
 - Es un conjunto de computadoras interconectadas que comparten recursos y operan como un solo sistema.
 
 ## SECCIÓN 1.9
 
-26. **Mencione al menos 4 estructuras de datos empleadas comúnmente en un sistema operativo.**  
+28. **Mencione al menos 4 estructuras de datos empleadas comúnmente en un sistema operativo.**  
 
 - Tablas de procesos, listas de espera, colas y bitmaps.
 
-27. **(Verdadero o falso) Un bitmap de N bits puede ser empleado para representar el estado de 2^N ítems.**  
+29. **(Verdadero o falso) Un bitmap de N bits puede ser empleado para representar el estado de 2^N ítems.**  
 
 - Falso.
 
 ## SECCIÓN 1.10
 
-28. **Mencione al menos cinco tipos diferentes de ambientes de computación.**  
+30. **Mencione al menos cinco tipos diferentes de ambientes de computación.**  
 
 - Computación tradicional, sistemas móviles, cliente-servidor, computación en la nube y sistemas embebidos.
 
 ## SECCIÓN 1.11
 
-29. **Dé un ejemplo de un sistema operativo de código abierto.**  
+31. **Dé un ejemplo de un sistema operativo de código abierto.**  
 
 - Linux.
 
