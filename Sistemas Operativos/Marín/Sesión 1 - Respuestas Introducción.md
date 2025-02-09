@@ -54,7 +54,7 @@ Link del video: https://youtu.be/t0aRCeWoMHA?si=136_tLwm8-HbAOb7
 
 10. **¿Cómo difiere un sistema en clúster de un sistema multinúcleo?**  
 
-- Un sistema en clúster consiste en múltiples computadoras interconectadas, mientras que un sistema multinúcleo tiene varios núcleos dentro de un solo procesador.
+	- Un sistema en clúster consiste en múltiples computadoras interconectadas, mientras que un sistema multinúcleo tiene varios núcleos dentro de un solo procesador.
 
 ## SECCIÓN 1.4
 
