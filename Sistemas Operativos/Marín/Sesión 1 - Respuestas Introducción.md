@@ -46,7 +46,7 @@ Link del video: https://youtu.be/t0aRCeWoMHA?si=136_tLwm8-HbAOb7
 
 10. **(Verdadero o falso) El sistema multiprocesador más común emplea multiprocesamiento asimétrico.**  
 
-- Falso, el multiprocesamiento simétrico es más común.
+- Falso, el multiprocesamiento simétrico es más común. Osea tanto tareas del sistema y otras de tareas de usuario
 
 11. **¿Cuál es el nombre de un sistema multiprocesador que emplea múltiples núcleos de computación?**  
 
@@ -54,7 +54,7 @@ Link del video: https://youtu.be/t0aRCeWoMHA?si=136_tLwm8-HbAOb7
 
 12. **¿Cómo difiere un sistema en clúster de un sistema multinúcleo?**  
 
-- Un sistema en clúster consiste en múltiples computadoras interconectadas, mientras que un sistema multinúcleo tiene varios núcleos dentro de un solo procesador.
+	- Un sistema en clúster consiste en múltiples computadoras interconectadas, mientras que un sistema multinúcleo tiene varios núcleos dentro de un solo procesador.
 
 ## SECCIÓN 1.4
 
