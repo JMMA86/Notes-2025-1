@@ -6,6 +6,7 @@
 
 ## Sistemas Operativos
 - [x] Ver el video y hacer la guía (Jueves 4/2).
+- [ ] Hacer el tutorial de instalación de Linux (Martes 11/2).
 
 ## Computación en Internet II
 - [ ] Nada por ahora.
@@ -21,3 +22,6 @@
 
 ## Semillero
 - [ ] Seguir avanzando en el desarrollo de los formularios.
+
+## CP
+- [ ] [Introduction to Prefix Sums · USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
