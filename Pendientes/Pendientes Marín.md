@@ -13,7 +13,7 @@
 - [x] Entregar proyecto web (Domingo 9/2).
 
 ## Gerencia de Proyectos
-- [ ] Responder a las preguntas del Taller (Miércoles 12/2).
+- [x] Responder a las preguntas del Taller (Miércoles 12/2).
 
 ## Electiva Ética
 - [ ] Nada por ahora.
