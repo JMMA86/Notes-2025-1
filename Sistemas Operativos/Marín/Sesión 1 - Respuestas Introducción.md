@@ -1,6 +1,6 @@
 # Preguntas de Chequeo - Capítulo 1
 
-Link del video: https://youtu.be/t0aRCeWoMHA?si=136_tLwm8-HbAOb7
+Link del video: [Sistemas Operacionales - Introducción](https://www.youtube.com/watch?v=t0aRCeWoMHA)
 
 ## SECCIÓN 1.1
 
