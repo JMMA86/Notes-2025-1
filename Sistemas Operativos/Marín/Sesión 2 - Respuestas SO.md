@@ -26,12 +26,14 @@ Link del video: [Sistemas Operacionales - Estructuras del sistema operativo](htt
 Es una interfaz que permite a los programas solicitar servicios del sistema operativo, como acceso a archivos o gestión de procesos.  
 
 ### 5. Defina qué es una *API*.
-Es un conjunto de funciones que facilita el acceso a los *system calls* desde programas de alto nivel.  
+Es una interfaz que facilita el acceso a los *system calls* desde programas de alto nivel.  
 
 ### 6. ¿Qué estructura de datos del kernel se puede emplear para el paso de parámetros a un *system call*?
 - **Registros del procesador** (cuando hay pocos parámetros).  
 - **Tabla de parámetros** (cuando son más y se pasa un puntero).  
 - **Pila del sistema** (empujando los parámetros en memoria).  
+
+Respuesta corta: Pila.
 
 ### 7. Mencione tres tipos principales de *system calls*.
 - **Control de procesos**: `fork()`, `exit()`, `wait()`.  
@@ -60,4 +62,4 @@ Es un conjunto de funciones que facilita el acceso a los *system calls* desde pr
 - **macOS**: Basado en un microkernel con extensiones.  
 
 ### 12. ¿Qué técnica emplean los microkernels para la comunicación entre servicios?
-- **Paso de mensajes (Message Passing)**: Envía y recibe datos entre procesos de usuario y el kernel.  
+Utilizan IPC (Inter-Process Communication), que es un conjunto de mecanismos y técnicas que permiten a los procesos en un sistema operativo intercambiar datos e información. Uno de los mecanismos comunes es el **Paso de mensajes (Message Passing)**, el cual envía y recibe datos entre procesos de usuario y el kernel.  
