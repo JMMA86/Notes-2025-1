@@ -11,11 +11,6 @@
 - Compatibilidad con aplicaciones
 ##### ¿Cuál es la finalidad de tener múltiples particiones?
 Tener múltiples particiones permite organizar mejor los datos que el SO escribe, haciendo que sea más eficiente y más tolerante a fallos. Si una partición falla, el resto se queda intacta y es más sencillo recuperarla.
-##### ¿Cuál será el destino o uso de cada partición?
-- **/boot:** contiene los archivos necesarios para arrancar, como el kernel y la configuración del gestor de arranque (GRUB)
-- 
-##### Cuando se creaba la partición, se podía seleccionar ext4 o LVM, ¿cuál es la diferencia?
-
 
 #### Fuentes
 - [Chapter 1.3 Installation — Lubuntu Manual 24.10 documentation](https://manual.lubuntu.me/stable/1/1.3/installation.html)
