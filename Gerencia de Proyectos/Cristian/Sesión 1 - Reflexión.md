@@ -1,3 +1,5 @@
+
+Cristian Eduardo Botina Carpio - A00395008
 #### 1. Misión y visión personal con análisis DOFA
 
 ##### Misión Personal:
@@ -41,16 +43,16 @@
 Mejorar mis habilidades de programación competitiva para poder clasificar a las siguientes fases en las competencias que vienen en los próximos años.
 
 - **Resultado Clave 1 (KPI 1):** Conseguir un rating de 1900 (Candidate Master) en la plataforma Codeforces
-	- **Proyecto:** Participar semanalmente en los contest de práctica de esta página, analizando los errores cometidos durante los siguientes 4 meses.
-- **Resultado Clave 2 (KPI 2):** Tener una estrategia sólida para enfrentarme a los problemas en equipo
-	- **Proyecto:** Simular cada 2 semanas competencias pasadas de ICPC regionales junto a mi equipo, y así probar nuevas estrategias o variaciones de estas. 
+	- **Proyecto:** Práctica deliberada de programación basada en contest virtuales 
+- **Resultado Clave 2 (KPI 2):** Resolver 6 problemas de ICPC regionales pasadas con mi equipo en el límite de tiempo de 5 horas.
+	- **Proyecto:** El regreso de Icesi a la ICPC con estrategia
 ##### Objetivo 2
 
 Mejorar mis habilidades de liderazgo y gestión de equipos para poder asumir roles de liderazgo formal y contribuir de manera más efectiva a proyectos colaborativos.
 - **Resultado Clave 1 (KPI 1):** Participar activamente en un proyecto de desarrollo de software como líder de equipo.
-    - **Proyecto:** Asumir el rol de líder por turnos en los trabajos en grupo que involucren desarrollo de software de la universidad, es decir, que tome el control de lo que realiza el equipo más seguido.
-- **Resultado Clave 2 (KPI 2):** Consolidar un nivel de inglés B2.
-    - **Proyecto:** Usar herramientas de IA como Gemini y su función de reconocimiento de voz para practicar las conversaciones en inglés.
+    - **Proyecto:** Rotando el lider de los returners (equipo de trabajo).
+- **Resultado Clave 2 (KPI 2):** Desarrollar las habilidades comunicativas necesarias para certificar un nivel de inglés C1 en IELTS o TOEFL.
+    - **Proyecto:** Dominando el speaking con ayuda de la IA
 
 ---
 
