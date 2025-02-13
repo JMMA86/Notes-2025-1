@@ -12,7 +12,7 @@ Hay que responder estas preguntas:
 
 3. Reflexiones personales: ¿Cómo creen que nuestra comprensión del lugar del ser humano en el universo puede influir en nuestras acciones y decisiones cotidianas?
 
-	R/ Comprender nuestra pequeñez en el universo puede influir en nuestras decisiones de varias maneras. Por un lado, nos invita a ser humildes, a cuestionar nuestro egocentrismo y a reflexionar sobre el impacto de nuestras acciones en el planeta y en las generaciones futuras. También puede llevarnos a apreciar más cada momento, ya que, aunque efímeros, somos capaces de generar arte, ciencia y emociones profundas. Finalmente, puede impulsar una visión más colaborativa y solidaria, entendiendo que en la vastedad del cosmos, nuestra mejor oportunidad está en unirnos como especie.
+	R/ Comprender nuestra pequeñez en el universo puede influir en nuestras decisiones de varias maneras. Por un lado, nos invita a ser humildes, a cuestionar nuestro egocentrismo y a reflexionar sobre el impacto de nuestras acciones en el planeta y en las generaciones futuras. También puede llevarnos a apreciar más cada momento, ya que, aunque vivimos poco en relación a muchas entidades, somos capaces de generar arte, ciencia y emociones. Finalmente, puede impulsar una visión más colaborativa y solidaria, entendiendo que la mejor forma de evolucionar es cooperar y trabajar juntos.
 
 4. Impacto social y cultural: ¿De qué manera creen que la percepción de la insignificancia humana frente al cosmos ha influido en la cultura, la religión y la filosofía a lo largo de la historia?
 
