@@ -1,4 +1,3 @@
-
 ### 1. Lista de conceptos
 
 1. Bipedismo: Andar erguidos sobre dos piernas, característico de los humanos y algunos de sus ancestros cercanos. 
