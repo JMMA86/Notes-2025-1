@@ -1,4 +1,4 @@
-### 1. Lista de conceptos
+### Lectura de Harari
 
 1. Bipedismo: Andar erguidos sobre dos piernas, característico de los humanos y algunos de sus ancestros cercanos. 
 2. Ventaja de la visión amplia: Andar erguido permite una mejor visión de la sabana, facilitando la búsqueda de presas o amenazas.
@@ -10,6 +10,9 @@
 8. Desarrollo de habilidades manuales: La liberación de las manos permitió a los humanos desarrollar habilidades manuales intrincadas, como producir y usar utensilios sofisticados.
 9. Cambios en la anatomía del cráneo y el cuerpo: La adaptación a la postura erguida implicó cambios significativos en la anatomía, como el desarrollo de caderas estrechas y un cráneo más grande.
 10. Impacto en la evolución social: La dependencia de los bebés humanos incentivó la creación de redes sociales fuertes y la necesidad de cooperación dentro de la tribu para su crianza.
+
+### Lectura de Thomas
+
 11. Cambios posturales: Factores ecológicos, incluyendo el clima, que influenciaron el cambio postural hacia el bipedismo permanente.
 12. Desarrollo del encéfalo: El cráneo ubicado en la parte superior del cuerpo permitió un mejor equilibrio de pesos y la posibilidad de crecimiento del cerebro en todos sus diámetros.
 13. Fabricación de utensilios: La capacidad de fabricar utensilios ad hoc introdujo un significado que no estaba codificado en la naturaleza.
@@ -33,8 +36,3 @@
 31. Erotismo: El erotismo que surgió del deseo de ese otro en una dimensión simbólica.
 32. Prohibición del incesto: La prohibición del incesto como un aspecto de la prohibición más amplia que engloba la sexualidad.
 33. Complejización del "ser en el mundo": La complejización del "ser en el mundo" que se desarrolló al alejarse lentamente del orden natural y de su violencia.
-
-
-
-
-![[Sesión 2 - Mapa Conceptual 2025-02-13 06.27.01.excalidraw]]
