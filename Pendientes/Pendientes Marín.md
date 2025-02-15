@@ -14,6 +14,7 @@
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
+- [ ] Crear modelo de BD de proyecto escogido (Martes 18/2).
 
 ## Gerencia de Proyectos
 - [x] Responder a las preguntas del Taller (Miércoles 12/2).
@@ -23,7 +24,7 @@
 - [ ] Nada por ahora.
 
 ## Innovación y Emprendimiento II
-- [ ] Formar los grupos y definir un tema de proyecto (Viernes 14/2).
+- [x] Formar los grupos y definir un tema de proyecto (Viernes 14/2).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.
