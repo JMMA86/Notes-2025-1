@@ -105,4 +105,4 @@ Es un mecanismo de comunicación entre procesos (IPC), unidireccional y sin alma
 Son orientados a conexión, pues para transmitir la información se realiza un proceso conocido como "three-way handshake" que asegura que los datos se pasen de forma confiable
 ##### 3.20. ¿Los sockets UDP son orientados a conexión, o sin conexión? Explique.
 
-		No son orientados a conexión, se usan datagramas independientes, que solo incluyen la información del destinatario. No se garantiza que lleguen, y si llegan, tampoco asegura que lleguen en el orden correcto.
+No son orientados a conexión, se usan datagramas independientes, que solo incluyen la información del destinatario. No se garantiza que lleguen, y si llegan, tampoco asegura que lleguen en el orden correcto.
