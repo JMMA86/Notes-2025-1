@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="dmd" id="BE367191-CA05-D11C-0FFE-4B0BCDC9E92B" version="3.5">
+<createdBy>gagig</createdBy>
+<createdTime>2025-02-16 01:55:47 UTC</createdTime>
+<ownerDesignName>dmd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>BE367191-CA05-D11C-0FFE-4B0BCDC9E92B</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="6603FFD4-69AB-8F53-F7DB-B7DD54534430">
+<designStoragePath>D:\modelo3</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
