@@ -1,12 +1,20 @@
+## Estudiantes
+
+| Nombre                  | Código    |
+| ----------------------- | --------- |
+| Cristian Eduardo Botina | A00395008 |
+| Juan Manuel Marín       | A00382037 |
+## Preguntas
+
 ![[Pasted image 20250209161251.png]]
 
-1. **Try or Install Lubuntu**: Arranca Lubuntu en modo Live (sin instalar) o permite instalarlo en el disco.
-2. **Lubuntu (safe graphics)**: Igual que la anterior, pero usa controladores gráficos básicos para evitar problemas de compatibilidad.
-3. **Test memory**: Ejecuta una prueba de memoria RAM para detectar errores.
+1. **Try or Install Lubuntu**: Permite probar el SO sin instalarlo, o hacer la instalación en el disco duro mediante la interfaz gráfica.
+2. **Lubuntu (Safe Graphics)**: Desactiva los controladores avanzados, como los de NVIDIA, para evitar errores y realizar diagnósticos.
+3. **Test Memory**: Ejecuta una herramienta llamada Memtest86+ para detectar problemas relacionados con la memoria RAM.
 
 ![[Pasted image 20250209161617.png]]
 
-Esta selección afecta:
+Básicamente, esta selección afecta:
 
 1. **Hora y fecha del sistema**: Asegura que el reloj del sistema esté correcto.
 2. **Registros y eventos**: Evita inconsistencias en logs y programaciones de tareas.
@@ -24,13 +32,17 @@ Dividir el disco en varias particiones tiene ventajas como:
 
 En una instalación típica de Linux, las particiones más comunes son:
 
-1. **`/` (raíz)**: Contiene el sistema operativo y los programas.
+1. **`/` (root)**: Contiene el sistema operativo y los programas.
 2. **`/home`** _(opcional pero recomendable)_: Guarda los archivos de usuario y configuraciones personales.
-3. **`swap`** _(opcional si tienes suficiente RAM)_: Espacio en disco usado como memoria virtual cuando la RAM se llena.
+3. **`swap`** _(opcional si hay suficiente RAM)_: Espacio en disco usado como memoria virtual cuando la RAM se llena.
 4. **`/boot`** _(opcional)_: Puede ser útil en sistemas con UEFI o cifrado de disco.
 
+Como se puede observar, cada partición tiene un uso objetivo en el buen funcionamiento del sistema operativo.
+
+La diferencia entre **Ext4** y **LVM** radica en las siguientes características:
+
 - **Ext4**:
-    - Sistema de archivos estándar en Linux.
+    - Es un sistema de archivos estándar en Linux.
     - Más sencillo, confiable y rápido para discos de uso normal.
     - No permite redimensionar particiones fácilmente una vez creadas.
 
@@ -39,11 +51,11 @@ En una instalación típica de Linux, las particiones más comunes son:
     - Facilita **redimensionar** particiones y agregar más discos en el futuro.
     - Útil para servidores o sistemas que requieren flexibilidad en la gestión del almacenamiento.
 
-Si no necesitas ajustar el tamaño de las particiones en el futuro, **Ext4** es la mejor opción. Si buscas flexibilidad y escalabilidad, **LVM** es más conveniente.
+Por lo tanto, si no es necesario ajustar el tamaño de las particiones en el futuro, **Ext4** es la mejor opción. Pero para flexibilidad y escalabilidad, **LVM** es más conveniente.
 
 ![[Pasted image 20250209165932.png]]
 
-MBR (Master Boot Record) y GPT (GUID Partition Table) son esquemas de particionado de disco.
+MBR (Master Boot Record) y GPT (GUID Partition Table) son esquemas de particionado de disco. A continuación, mostramos una tabla con las características de cada tipo:
 
 |Característica|**MBR**|**GPT**|
 |---|---|---|
@@ -52,13 +64,14 @@ MBR (Master Boot Record) y GPT (GUID Partition Table) son esquemas de particiona
 |**Compatibilidad**|Compatible con BIOS y sistemas antiguos|Compatible con UEFI y más moderno|
 |**Seguridad**|No tiene redundancia; si el MBR se daña, el disco no arranca|Guarda múltiples copias de la tabla de particiones para recuperación|
 |**Velocidad y eficiencia**|Más lento en discos grandes|Mejor rendimiento en discos grandes|
+Teniendo en cuenta estas características, podemos afirmar que:
 
-- **MBR** si necesitas compatibilidad con sistemas antiguos o BIOS tradicional.
-- **GPT** si usas UEFI, necesitas más de 2 TB por partición o más de 4 particiones.
+- **MBR** para compatibilidad con sistemas antiguos o BIOS tradicional.
+- **GPT** cuando se usa UEFI, se necesitan más de 2 TB por partición o más de 4 particiones.
 
 ![[Pasted image 20250209170852.png]]
 
-En Linux, `/dev/sda` representa un **dispositivo de almacenamiento**.
+En Linux, `/dev/sda` representa un **dispositivo de almacenamiento**. Las partes de esta ruta se definen en:
 
 - **`/dev/`** → Directorio donde se encuentran los dispositivos del sistema.
 - **`sda`** → Primer disco duro detectado (SATA, SCSI o NVMe en sistemas antiguos).
@@ -72,3 +85,11 @@ Las **particiones** dentro de un disco se numeran:
 
 - **`/dev/sda1`** → Primera partición del primer disco.
 - **`/dev/sda2`** → Segunda partición, etc.
+
+## Fuentes
+- [Chapter 1.3 Installation — Lubuntu Manual 24.10 documentation](https://manual.lubuntu.me/stable/1/1.3/installation.html)
+- [Guía de Sincronización de Hora en Ubuntu Server con NTP – pardellas.es](https://pardellas.es/guia-de-sincronizacion-de-hora-en-ubuntu-server-con-ntp/)
+- [La importancia de particionar correctamente un disco en Linux](https://www.daniloaz.com/es/la-importancia-de-particionar-correctamente-un-disco-en-linux/)
+- [Logical Volume Manager (LVM) versus standard partitioning in Linux](https://www.redhat.com/en/blog/lvm-vs-partitioning#:~:text=This%20article%20compares%20standard%20storage%20management%20and%20partitioning,also%20demonstrates%20some%20basic%20commands%20for%20each%20approach.)
+- [MBR vs GPT: diferencias y comparativa de uso en SSD](https://hardzone.es/reportajes/comparativas/mbr-gpt-diferencias-rendimiento-ssd/)
+- [¿Qué es Dev SDA en Linux?](https://whileint.com/tech/pablo/que-es-dev-sda-en-linux/)
