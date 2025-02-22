@@ -1,29 +1,6 @@
-#Oscar #SO #Sesión 
+#Oscar #SO #Oscar 
 
-Bienvenida al curso
-
-*Primer video de contexto de la clase:*
-
-https://www.youtube.com/watch?v=t0aRCeWoMHA&t=96s
-
-
-# Sistema operativo
-Programa que se encarga de gestionar la forma en la que se administran los recursos entre el software y el hardware.
-
-## Kernel
-Sistema que maneja toda la comunicación entre el input del usuario y el hardware.
-
-## Multiprogramación y multitarea
-
-### Gestión de recursos del sistema operativo
-- Procesos
-- Crear y eliminar
-- Planificar
-- Suspender / Reanudar
-- Sincronización
-- Comunicación
-
-# Sesión 2
+# Sesión 3
 # Estructuras del sistema operativo
 ## Servicios del sistema operativo
 ![[Pasted image 20250209172436.png]]
@@ -133,3 +110,9 @@ Una versión de Linux >:)
 ## Arquitectura de WSL
 Correr Linux dentro de windows.
 ![[Pasted image 20250209224134.png]]
+
+# Powershell
+```powershell
+Get-Process | convertto-html | Out-File clase.html
+```
+

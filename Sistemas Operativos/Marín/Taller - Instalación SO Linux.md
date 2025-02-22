@@ -1,9 +1,11 @@
+## Estudiantes
 
 | Nombre                  | Código    |
 | ----------------------- | --------- |
 | Cristian Eduardo Botina | A00395008 |
 | Juan Manuel Marín       | A00382037 |
- 
+## Preguntas
+
 ![[Pasted image 20250209161251.png]]
 
 1. **Try or Install Lubuntu**: Permite probar el SO sin instalarlo, o hacer la instalación en el disco duro mediante la interfaz gráfica.
@@ -83,3 +85,11 @@ Las **particiones** dentro de un disco se numeran:
 
 - **`/dev/sda1`** → Primera partición del primer disco.
 - **`/dev/sda2`** → Segunda partición, etc.
+
+## Fuentes
+- [Chapter 1.3 Installation — Lubuntu Manual 24.10 documentation](https://manual.lubuntu.me/stable/1/1.3/installation.html)
+- [Guía de Sincronización de Hora en Ubuntu Server con NTP – pardellas.es](https://pardellas.es/guia-de-sincronizacion-de-hora-en-ubuntu-server-con-ntp/)
+- [La importancia de particionar correctamente un disco en Linux](https://www.daniloaz.com/es/la-importancia-de-particionar-correctamente-un-disco-en-linux/)
+- [Logical Volume Manager (LVM) versus standard partitioning in Linux](https://www.redhat.com/en/blog/lvm-vs-partitioning#:~:text=This%20article%20compares%20standard%20storage%20management%20and%20partitioning,also%20demonstrates%20some%20basic%20commands%20for%20each%20approach.)
+- [MBR vs GPT: diferencias y comparativa de uso en SSD](https://hardzone.es/reportajes/comparativas/mbr-gpt-diferencias-rendimiento-ssd/)
+- [¿Qué es Dev SDA en Linux?](https://whileint.com/tech/pablo/que-es-dev-sda-en-linux/)
