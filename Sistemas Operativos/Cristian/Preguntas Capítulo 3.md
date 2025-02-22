@@ -3,7 +3,7 @@
 - Text: código máquina
 - Data: memoria global
 - Heap: memoria dinámica
-- Stack: llamados a funciones
+- Stack: llamados a funciones y paso de datos
 
 #####  3.2. Mencione al menos tres estados en los que un proceso pueda estar.
 
@@ -84,25 +84,27 @@ Se usan `send()` y `receive()`.
 #####  3.16. (Verdadero/Falso) El paso de mensajes es típicamente más rápido que la memoria compartida.
 
 Falso, esto sucede porque en el paso de mensajes se requiere copiar los datos, serializarlos y, en ocasiones, pasarlos a través de una red, lo que añade latencia. En la memoria compartida se accede directamente al espacio reservado.  
+- Mach Traps
+- POSIX
 
 ### SECCIÓN 3.7
 
 ##### 3.17. ¿Qué es un pipe? Mencione los dos tipos de pipes.
 
 Es un mecanismo de comunicación entre procesos (IPC), unidireccional y sin almacenamiento persistente
-- Pipes normales 
-- Pipes nombradas
+- Pipes normales: unidireccional
+- Pipes nombradas: unidireccional
 
 ### SECCIÓN 3.8
 
 ##### 3.18. Mencione al menos dos tipos de mecanismos de comunicación en sistemas cliente/servidor.
 
-- Sockets: Es un mecanismo que permite transferencia de datos entre dispositivos mediante una API.
-- RPC (Remote Procedure Call): Ejecuta las operaciones como si estuvieran ejecutandose localmente, así se abstrae la complejidad de la comunicación en la red.
+- Sockets: Es un mecanismo que permite transferencia de datos entre dispositivos mediante una API, se requiere la información del puerto en la solicitud.
+- RPC (Remote Procedure Call): Recibe las solicitudes sin que el puerto esté especificado, localiza el servicio y devuelve el puerto para que luego se haga la conexión directa entre cliente y servdor.
 
 ##### 3.19. ¿Los sockets TCP son orientados a conexión, o sin conexión? Explique.
 
 Son orientados a conexión, pues para transmitir la información se realiza un proceso conocido como "three-way handshake" que asegura que los datos se pasen de forma confiable
 ##### 3.20. ¿Los sockets UDP son orientados a conexión, o sin conexión? Explique.
 
-		No son orientados a conexión, se usan datagramas independientes, que solo incluyen la información del destinatario. No se garantiza que lleguen, y si llegan, tampoco asegura que lleguen en el orden correcto.
+No son orientados a conexión, se usan datagramas independientes, que solo incluyen la información del destinatario. No se garantiza que lleguen, y si llegan, tampoco asegura que lleguen en el orden correcto.
