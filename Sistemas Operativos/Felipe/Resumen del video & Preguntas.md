@@ -32,7 +32,7 @@ Servicios del sistema
 - Gestión de archivos
 - Información de estado
 	- Fecha, memoria libre, numero de usuarios
-	- Registry
+	- Registryk
 - Modificación de archivos
 - Soporte a lenguajes de programación
 - Carga y ejecución de programas
