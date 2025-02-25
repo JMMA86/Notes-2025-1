@@ -36,3 +36,11 @@
 31. Erotismo: El erotismo que surgió del deseo de ese otro en una dimensión simbólica.
 32. Prohibición del incesto: La prohibición del incesto como un aspecto de la prohibición más amplia que engloba la sexualidad.
 33. Complejización del "ser en el mundo": La complejización del "ser en el mundo" que se desarrolló al alejarse lentamente del orden natural y de su violencia.
+
+#pendiente
+- conceptos del fuego
+- calendario cósmico
+- lenguaje
+- Bipedismo
+- Cultura
+

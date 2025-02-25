@@ -1,6 +1,15 @@
-- [ ] Quiz de compunet 3 (11 Feb)
+- [x] Quiz de compunet 3 (11 Feb)
 - [x] Ver video de Madrid y responder preguntas (6 Feb)
 - [ ] IA revisar el curso del 20%
 - [x] Taller de docker (12 feb)
-- [ ] Reflexion de gerencia de proyectos
-- [ ] 
+- [x] Reflexion de gerencia de proyectos
+- [x] Revisar lectura de Operativos (18 feb)
+- [x] Acabar taller de IA (16 feb)
+- [x] Realizar propuesta de proyecto de gerencia
+- [x] Revisar la navegacion para app moviles
+- [x] Innovacion realizar el brief
+- [x] Realizar modulo 2 de powershell clase del jueves
+- [ ] Compunet 3 hacer el demo
+- [ ] Ver videos modulo 3, hacer brief
+- [ ] Operativos ver videos en segundo plano para confirmar info
+- [ ] Innovacion
