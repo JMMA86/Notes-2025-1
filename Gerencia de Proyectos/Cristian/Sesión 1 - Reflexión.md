@@ -36,6 +36,21 @@ Cristian Eduardo Botina Carpio - A00395008
 
 ---
 
+#### Valores y principios morales
+
+1. **Honestidad** – Garantiza la transparencia y veracidad en el desarrollo de software y en el liderazgo de equipos.  
+2. **Responsabilidad** – Cumplir compromisos profesionales y actuar con integridad en cada proyecto.  
+3. **Respeto** – Fundamental para la colaboración en equipos y la interacción con clientes y compañeros.  
+4. **Justicia** – Aplicar principios éticos en la toma de decisiones, asegurando equidad en el trabajo.  
+5. **Humildad** – Reconocer errores, aprender de otros y estar abierto a mejorar continuamente.  
+6. **Solidaridad** – Contribuir al crecimiento de otros profesionales y compartir conocimientos.  
+7. **Tolerancia** – Aceptar diferentes perspectivas y trabajar en equipos multiculturales.  
+8. **Gratitud** – Valorar las oportunidades de aprendizaje y el apoyo de mentores y compañeros.  
+9. **Generosidad** – Compartir conocimientos y ayudar a quienes lo necesiten en su crecimiento profesional.  
+
+
+---
+
 #### 2. Escribir 2 objetivos personales con 2 resultados clave para cada uno, 1 proyecto para cada resultado clave
 
 ##### Objetivo 1
