@@ -106,7 +106,7 @@ Get-Help Out-File -Full
 ```
 
 Vemos que el tamaño especificado es de 80 caracteres:
-![[Pasted image 20250213080508.png]]
+![[Sistemas Operativos/Marín/Imágenes/Pasted image 20250213080508.png]]
 
 Por lo que, para cambiarlo, se debe usar el comando:
 ```Powershell
