@@ -70,4 +70,4 @@ El algoritmo de planificación por defecto en Linux es **Completely Fair Schedul
 
 ## **Sección 5.8**
 ### 5.15. (Verdadero / Falso) El modelamiento determinístico y las simulaciones son estrategias similares para evaluar los algoritmos de planificación.
-**Falso.** El modelamiento determinístico usa fórmulas predefinidas, mientras que las simulaciones permiten evaluar el comportamiento en condiciones más realistas utilizando teoría de colas y modelos probabilísticos.
+**Verdadero (Son similares).** El modelamiento determinístico usa fórmulas predefinidas, mientras que las simulaciones permiten evaluar el comportamiento en condiciones más realistas utilizando teoría de colas y modelos probabilísticos.
