@@ -36,3 +36,9 @@
 
 - **Ciclo de vida del producto** :: Representa el tiempo desde la concepción hasta el retiro del mercado de un producto, incluyendo múltiples ciclos de vida de proyectos.
 <!--SR:!2025-02-21,1,230-->
+
+- **Artefacto** :: resultado de una fase del ciclo de vida
+
+- **Entregable** :: artefacto que se acuerda con el cliente para entregar
+
+- **Incremento** :: entregable funcional que se mejora continuamente
