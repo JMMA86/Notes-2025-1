@@ -4,13 +4,15 @@
 - [x] Hacer el diagrama de comunicación (Domingo 23/2).
 - [x] Terminar de ver la película (Domingo 23/2).
 - [x] Terminar mapa conceptual final (Lunes 3/3).
+- [x] Hacer infografía sumerios (Lunes 10/3).
 
 ## Aplicaciones Móviles
 - [x] Ver los 4 videos de introducción (Lunes 10/2).
 - [x] Ver los siguientes videos de navegación (Lunes 17/2).
 - [x] Ver los siguientes videos (Lunes 24/2).
 - [x] Terminar Pre-Pitch (Lunes 24/2).
-- [ ] Cuadrar presentación Pitch (Lunes 3/3).
+- [x] Cuadrar presentación Pitch (Lunes 3/3).
+- [x] Hacer modelo de base de datos (Lunes 10/3).
 
 ## Sistemas Operativos
 - [x] Ver el video y hacer la guía (Jueves 4/2).
@@ -35,24 +37,26 @@
 - [x] Tener claro mis OKR, objetivos y DOFA por si preguntan (Miércoles 26/2).
 - [x] Leer ciclos de vida [PDF](https://www.icesi.edu.co/moodle/pluginfile.php/1121117/mod_page/content/230/Sesio%CC%81n%204%20-%20Ciclo%20de%20vida%20del%20desarrollo%20del%20producto%2C%20servicio%20o%20resultado.pdf?time=1739996123330) (Miércoles 26/2).
 - [x] Mejorar el análisis financiero del proyecto (Miércoles 26/2).
+- [x] Terminar cronograma de proyecto (Miércoles 5/2).
 
 ## Electiva Ética
-- [x] Nada por ahora.
+- [ ] Resumir el texto de 28 páginas que mandó el profesor para Kahoot (Viernes 14/3).
 
 ## Innovación y Emprendimiento II
 - [x] Formar los grupos y definir un tema de proyecto (Viernes 14/2).
 - [x] Completar PDF en grupo (Viernes 21/2).
-- [ ] Hacer tarea de ideas (Viernes 28/2).
+- [x] Hacer tarea de ideas (Viernes 28/2).
+- [x] Entregar video primer corte (Sábado 8/3).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.
-- [ ] Seguir avanzando en el desarrollo de los formularios.
+- [x] Seguir avanzando en el desarrollo de los formularios.
 - [x] Revisar el error de OJS.
 
 ## Monitoria
 - [x] Calificar quiz.
 - [x] Calificar Seguimiento 1 - Ensayo
-- [ ] Calificar Seguimiento 2 - Horn
+- [x] Calificar Seguimiento 2 - Horn
 
 ## CP
 - [x] [Introduction to Prefix Sums · USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
