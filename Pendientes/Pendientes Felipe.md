@@ -13,3 +13,5 @@
 - [ ] Ver videos modulo 3, hacer brief
 - [ ] Operativos ver videos en segundo plano para confirmar info
 - [ ] Innovacion
+- [ ] 11 de marzo primer parcial de sist Operativos
+- [ ] Exportacion de datos, profundizacion en el pipeline (Clase 3)

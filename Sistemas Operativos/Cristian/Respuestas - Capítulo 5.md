@@ -100,3 +100,4 @@ Verdadero
 similares para evaluar los algoritmos de planificación.
 
 Falso, la simulación está más relacionada con la teoría de colas. La simulación complementa el modelo determinista porque tiene en cuenta los casos extremos o excepciones.
+
