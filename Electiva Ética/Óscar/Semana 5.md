@@ -5,6 +5,5 @@ Exposiciones:
 - Intermedio
 	- Reconstruir los problemas cotidianos explicando porque le concierne a la ética y a la tecnología
 	- Ejemplificación usando el mundo real (Si o si que ocurra en el contexto diario)
-	- Citas con APA
 - Cierre (Que sea interesante?)
 	- Máximo 5 minutos
