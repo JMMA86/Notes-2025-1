@@ -1,0 +1,6 @@
+
+La proliferación de robots pornográficos plantea un grave problema ético al normalizar la cosificación de cuerpos feminizados, especialmente cuando emulan a niñas, reproduciendo estereotipos que reducen a las personas a meros objetos de placer. Este fenómeno, denunciado por el video contra los Robots Pornográficos (2022), vulnera principios éticos fundamentales: desde la perspectiva kantiana, instrumentaliza a las mujeres y niñas, negando su dignidad como fines en sí mismas. 
+
+Aunque algunos argumentan que estos dispositivos son herramientas inocuas para la masturbación, estudios como el de la Universidad de Cambridge ("Exploring the clinical profile...", 2020) evidencian que el consumo compulsivo de pornografía altera zonas cerebrales asociadas a la adicción, como el núcleo accumbens, y reduce la capacidad de autocontrol. Esto no solo daña al individuo, sino que refuerza conductas que banalizan la violencia sexual, al desensibilizar al usuario frente a la explotación humana.  
+
+Frente a esto, la ética exige regular tecnologías que perpetúen la mercantilización de cuerpos, priorizando el respeto a la dignidad y el florecimiento humano. Permitir su uso sin crítica equivaldría a avalar sistemas que dañan los cimientos de la convivencia ética.
