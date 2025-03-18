@@ -1,12 +1,11 @@
 ---
 
-kanban-plugin: board
+kanban-plugin: list
 
 ---
 
 ## Bloqueadas
 
-- [ ] Grabar video innovación @{2025-03-08}
 
 
 ## Pendiente
@@ -16,18 +15,19 @@ kanban-plugin: board
 
 ## Pendiente Grupo
 
-- [ ] Miro Innovación @{2025-03-11}
-- [ ] Infografía escritura sumeria @{2025-03-10}
 
 
 ## Terminadas
 
+- [x] Infografía escritura sumeria @{2025-03-10}
+- [x] Miro Innovación @{2025-03-11}
+- [x] Grabar video innovación @{2025-03-08}
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[true,false,true,false],"show-checkboxes":true}
+{"kanban-plugin":"list","list-collapse":[true,false,true,false],"show-checkboxes":true}
 ```
 %%
