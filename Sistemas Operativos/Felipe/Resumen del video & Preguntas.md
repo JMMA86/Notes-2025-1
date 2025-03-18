@@ -1,3 +1,4 @@
+
 ![[Preguntas chequeo capítulo 2.pdf]]
 
 # Sección 2.1
