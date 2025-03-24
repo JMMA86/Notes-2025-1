@@ -5,6 +5,7 @@
 - [x] Terminar de ver la película (Domingo 23/2).
 - [x] Terminar mapa conceptual final (Lunes 3/3).
 - [x] Hacer infografía sumerios (Lunes 10/3).
+- [x] Hacer resumen del texto El mundo del dinero (Lunes 31/3).
 
 ## Aplicaciones Móviles
 - [x] Ver los 4 videos de introducción (Lunes 10/2).
@@ -27,6 +28,7 @@
 - [x] Ver el video y hacer la guía (Martes 4/3).
 - [x] Ver el video y hacer la guía (Martes 18/3).
 - [x] Hacer tarea de Scripts (Jueves 20/3).
+- [ ] Leer y hacer la guía (Martes 25/3).
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
@@ -44,6 +46,7 @@
 - [x] Mejorar el análisis financiero del proyecto (Miércoles 26/2).
 - [x] Terminar cronograma de proyecto (Miércoles 5/3).
 - [x] Hacer talleres de estudio para el parcial (Miércoles 19/3).
+- [ ] Hacer lecturas previas (miércoles 26/3).
 
 ## Electiva Ética
 - [x] Resumir el texto de 28 páginas que mandó el profesor para Kahoot (Viernes 14/3).
@@ -53,12 +56,14 @@
 - [x] Completar PDF en grupo (Viernes 21/2).
 - [x] Hacer tarea de ideas (Viernes 28/2).
 - [x] Entregar video primer corte (Sábado 8/3).
-- [ ] Hacer diagrama de flujo (Viernes 21/3).
+- [x] Hacer diagrama de flujo (Viernes 21/3).
+- [ ] Terminar de hacer los wireframes (Viernes 28/3).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.
 - [x] Seguir avanzando en el desarrollo de los formularios.
 - [x] Revisar el error de OJS.
+- [ ] Terminar las HU.
 
 ## Monitoria
 - [x] Calificar quiz.
