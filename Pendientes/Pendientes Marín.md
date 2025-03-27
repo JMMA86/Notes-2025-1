@@ -28,7 +28,7 @@
 - [x] Ver el video y hacer la guía (Martes 4/3).
 - [x] Ver el video y hacer la guía (Martes 18/3).
 - [x] Hacer tarea de Scripts (Jueves 20/3).
-- [ ] Leer y hacer la guía (Martes 25/3).
+- [x] Leer y hacer la guía (Martes 25/3).
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
@@ -36,7 +36,7 @@
 - [x] Terminar de hacer el formulario (Jueves 20/2).
 - [x] Hacer las funcionalidades de la S6 (Martes 25/2).
 - [x] Terminar el taller (Jueves 6/3).
-- [ ] Terminar taller JPA (Viernes 28/3).
+- [x] Terminar taller JPA (Viernes 28/3).
 
 ## Gerencia de Proyectos
 - [x] Responder a las preguntas del Taller (Miércoles 12/2).
@@ -46,7 +46,9 @@
 - [x] Mejorar el análisis financiero del proyecto (Miércoles 26/2).
 - [x] Terminar cronograma de proyecto (Miércoles 5/3).
 - [x] Hacer talleres de estudio para el parcial (Miércoles 19/3).
-- [ ] Hacer lecturas previas (miércoles 26/3).
+- [x] Hacer lecturas previas (miércoles 26/3).
+- [ ] Hacer EDT del proyecto (miércoles 2/4).
+- [ ] Hacer lecturas (miércoles 2/4).
 
 ## Electiva Ética
 - [x] Resumir el texto de 28 páginas que mandó el profesor para Kahoot (Viernes 14/3).
@@ -63,7 +65,7 @@
 - [x] Corregir el error del back de Forms.
 - [x] Seguir avanzando en el desarrollo de los formularios.
 - [x] Revisar el error de OJS.
-- [ ] Terminar las HU.
+- [x] Terminar las HU.
 
 ## Monitoria
 - [x] Calificar quiz.
