@@ -1,0 +1,3 @@
+1. Hacer un script que vaya iterando los números hasta el máximo posible y verifique si es primo o no, si lo es imprimirlo.
+2. Hacer un script que también entre como en un bucle y ponerlo a correr junto a los otros 2.
+3. Monitorear las prioridades de los procesos y hacer que pase lo siguiente: cambiar la prioridad de uno a una muy baja y la otra muy alta y que se separen con bastante diferencia, luego invertir las y que se alcancen.
