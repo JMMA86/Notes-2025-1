@@ -20,19 +20,19 @@ help *process*
 ```
 El comodín (*) indica cero o más caracteres. Ejemplos de su uso:
 
-Comando | Función
-------- | -------
-``help *process*``  | Muestra ayuda sobre comandos que contienen "process" en cualquier parte del nombre.
-``help process*``   | Muestra ayuda de comandos que comienzan con "process".
-``help *process``   | Muestra ayuda de comandos que terminan en "process".
+| Comando            | Función                                                                             |
+| ------------------ | ----------------------------------------------------------------------------------- |
+| ``help *process*`` | Muestra ayuda sobre comandos que contienen "process" en cualquier parte del nombre. |
+| ``help process*``  | Muestra ayuda de comandos que comienzan con "process".                              |
+| ``help *process``  | Muestra ayuda de comandos que terminan en "process".                                |
 
 Si hay varios comandos que cumplen el criterio de búsqueda, Powershell muestra una lista. Si solamente hay un comando, se muestra la ayuda abreviada. Otros ejemplos de uso de la ayuda:
 
-Comando | Función
-------- | -------
-``help get-process``           |  Muestra la ayuda abreviada del comando get-process.
-``help get-process -full``     | Muestra la ayuda completa del comando.
-``help get-process -examples`` | Muestra ejemplos de uso del comando.
+| Comando                        | Función                                             |
+| ------------------------------ | --------------------------------------------------- |
+| ``help get-process``           | Muestra la ayuda abreviada del comando get-process. |
+| ``help get-process -full``     | Muestra la ayuda completa del comando.              |
+| ``help get-process -examples`` | Muestra ejemplos de uso del comando.                |
 
 ## EJERCICIOS
 Responda las siguientes preguntas, haciendo uso del sistema de ayuda de Powershell:
