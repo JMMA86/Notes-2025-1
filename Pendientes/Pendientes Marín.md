@@ -29,6 +29,7 @@
 - [x] Ver el video y hacer la guía (Martes 18/3).
 - [x] Hacer tarea de Scripts (Jueves 20/3).
 - [x] Leer y hacer la guía (Martes 25/3).
+- [ ] Entregar actividad CPU (Sábado 29/3).
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
@@ -59,7 +60,7 @@
 - [x] Hacer tarea de ideas (Viernes 28/2).
 - [x] Entregar video primer corte (Sábado 8/3).
 - [x] Hacer diagrama de flujo (Viernes 21/3).
-- [ ] Terminar de hacer los wireframes (Viernes 28/3).
+- [x] Terminar de hacer los wireframes (Viernes 28/3).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.
@@ -71,7 +72,9 @@
 - [x] Calificar quiz.
 - [x] Calificar Seguimiento 1 - Ensayo
 - [x] Calificar Seguimiento 2 - Horn
-- [ ] Calificar Seguimiento 3 - Prolog
+- [x] Calificar Seguimiento 3 - Prolog
+- [ ] Calificar Seguimiento 4 - Prolog
+- [ ] Calificar Tarea 2 - Prolog
 
 ## CP
 - [x] [Introduction to Prefix Sums · USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)
