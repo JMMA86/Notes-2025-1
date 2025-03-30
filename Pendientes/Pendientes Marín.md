@@ -15,7 +15,7 @@
 - [x] Cuadrar presentación Pitch (Lunes 3/3).
 - [x] Hacer modelo de base de datos (Lunes 10/3).
 - [x] Ver los siguientes videos (Lunes 17/3).
-- [ ] Hacer encuestas y Figma funcional (Lunes 31/3).
+- [x] Hacer encuestas y Figma funcional (Lunes 31/3).
 
 ## Sistemas Operativos
 - [x] Ver el video y hacer la guía (Jueves 4/2).
@@ -29,7 +29,9 @@
 - [x] Ver el video y hacer la guía (Martes 18/3).
 - [x] Hacer tarea de Scripts (Jueves 20/3).
 - [x] Leer y hacer la guía (Martes 25/3).
-- [ ] Entregar actividad CPU (Sábado 29/3).
+- [x] Entregar actividad CPU (Sábado 29/3).
+- [x] Ver el video y hacer la guía (Martes 1/4).
+- [x] Ver el video y hacer la guía (Jueves 3/4).
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
@@ -53,6 +55,7 @@
 
 ## Electiva Ética
 - [x] Resumir el texto de 28 páginas que mandó el profesor para Kahoot (Viernes 14/3).
+- [ ] Preparar trabajo final.
 
 ## Innovación y Emprendimiento II
 - [x] Formar los grupos y definir un tema de proyecto (Viernes 14/2).
@@ -60,7 +63,8 @@
 - [x] Hacer tarea de ideas (Viernes 28/2).
 - [x] Entregar video primer corte (Sábado 8/3).
 - [x] Hacer diagrama de flujo (Viernes 21/3).
-- [x] Terminar de hacer los wireframes (Viernes 28/3).
+- [x] Terminar de hacer los Wireframes (Viernes 28/3).
+- [ ] Entregar video segundo corte (Sábado 5/3).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.

@@ -1,3 +1,8 @@
+## Estudiantes
+
+- Juan Manuel Marín Angarita - A00382037
+- Cristian Eduardo Botina Carpio - A00395008
+
 ## Objetivos:
 
 - Construir un gráfico de asignación de recursos y verificarla usando el simulador.
@@ -127,9 +132,9 @@ En esta situación, al no insertarse una nueva instancia del proceso 4, lo que s
 
 ### 16. Dentro de System Resources, pruebe y analice las 4 opciones enmarcadas en el recuadro rojo (ver siguiente imagen), para cada una de ellas analice que hace y su efecto en el sistema.
 
-Esas 4 opciones, son 
+Esas 4 opciones, son:
 
 - Disallow hold and wait: Cuando se activa esta opción, evita que un proceso solicite recursos que ya están en uso, en la ejecución, uno de los procesos llega a estar solicitado y requerido al mismo tiempo, por lo que el sistema evita que se produzca un deadlock.
-- Disallow circular wait: - Si esta opción está activada, el sistema utiliza técnicas como ordenamiento total de recursos para garantizar que los recursos siempre se asignen en un orden específico.
+- Disallow circular wait: Si esta opción está activada, el sistema utiliza técnicas como ordenamiento total de recursos para garantizar que los recursos siempre se asignen en un orden específico.
 - Abort proceses: Esta opción permite abortar uno o más procesos para romper la dependencia circular y resolver el deadlock. Tiene un efecto similar al de la pregunta 15, donde un proceso se cancela por completo para romper la dependencia circular.
-- Pre-empt resources: el sistema puede forzar la liberación de recursos de uno o más procesos involucrados en el deadlock. El efecto que produce es el que se describe en la pregunta 13, donde al quitar el proceso 4 y volver a insertarlo, se lograba liberar el recurso 4, pero al final se completaban todos los procesos.
+- Pre-empt resources: El sistema puede forzar la liberación de recursos de uno o más procesos involucrados en el deadlock. El efecto que produce es el que se describe en la pregunta 13, donde al quitar el proceso 4 y volver a insertarlo, se lograba liberar el recurso 4, pero al final se completaban todos los procesos.
