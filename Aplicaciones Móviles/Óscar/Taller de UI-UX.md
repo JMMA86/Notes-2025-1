@@ -38,5 +38,5 @@
 - ## Prototipando
 	- *Producto mínimo viable*
 		- Se define de acuerdo a la funcionalidad principal del producto
-- ## Probando el prototipo
-	- 
+# Evaluaciones heurísticas
+Sin usuarios, hacer una evaluación interna.
