@@ -1,0 +1,42 @@
+- ## Metodologías de diseño
+	- Poner en práctica el design thinking
+		- **UI:** 
+			- Interfaz de usuario
+		- **UX:**
+			- Experiencia de usuario (Lo que se vive y se siente)
+	- **Diseño centrado en el usuario:**
+		- Reunirse con el cliente para tener feedback todo el tiempo
+		- Analizar -> Diseñar -> Validar
+		- No me lo digas, muestramelo
+		- Colaboración extrema y radical
+		- Estar consciente del proceso
+	- **5 Instancias del design thinking**
+		- Empatizar
+		- Diseñar
+		- Idear
+		- Prototipar
+		- Testear
+- ## Entender al usuario
+	- *Marco general:*
+		- *Problema:*
+			- ¿Cual es la hipótesis? Lo mejor es sentarse y definirlo bien, actores, involucrados, obstaculizadores, contexto y facilitadores.
+		- *Objetivo:*
+			- ¿Que buscamos? Definir un objetivo que surge del problema
+		- *Solución:*
+			- ¿Qué proponemos? Describir la solución del prototipo de aplicación ¿Como soluciono el problema? ¿Que funcionalidades va tener el proyecto?
+		- *Research generativo:*
+			- (Investigación de escritorio) ¿Que problemas o necesidades tienen nuestros usuarios? ¿Que información real tengo para sustentar?
+	- *Personas:*
+		- Un individuo ficticio, creado para descubrir un usuario específico.
+	- *Protopersonas:*
+		- Es una versión más más cruda del user persona.
+- ## Definiendo e ideando el producto
+	- *Story telling:*
+		- ¿Quien es nuestro usuario?
+		- ¿Que necesita el usuario?
+		- ¿Por qué?
+- ## Prototipando
+	- *Producto mínimo viable*
+		- Se define de acuerdo a la funcionalidad principal del producto
+# Evaluaciones heurísticas
+Sin usuarios, hacer una evaluación interna.
