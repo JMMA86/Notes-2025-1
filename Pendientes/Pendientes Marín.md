@@ -6,6 +6,7 @@
 - [x] Terminar mapa conceptual final (Lunes 3/3).
 - [x] Hacer infografía sumerios (Lunes 10/3).
 - [x] Hacer resumen del texto El mundo del dinero (Lunes 31/3).
+- [x] Estudiar para el examen de la historia del dinero (Lunes 7/4).
 
 ## Aplicaciones Móviles
 - [x] Ver los 4 videos de introducción (Lunes 10/2).
@@ -16,6 +17,9 @@
 - [x] Hacer modelo de base de datos (Lunes 10/3).
 - [x] Ver los siguientes videos (Lunes 17/3).
 - [x] Hacer encuestas y Figma funcional (Lunes 31/3).
+- [x] Corregir prototipo y User persona (Lunes 7/4).
+- [x] Crear base de datos y entregarlo junto al Figma (Domingo 20/4).
+- [x] Hacer autenticación de la app (Lunes 28/4) (Hice mi parte).
 
 ## Sistemas Operativos
 - [x] Ver el video y hacer la guía (Jueves 4/2).
@@ -32,6 +36,7 @@
 - [x] Entregar actividad CPU (Sábado 29/3).
 - [x] Ver el video y hacer la guía (Martes 1/4).
 - [x] Ver el video y hacer la guía (Jueves 3/4).
+- [x] Estudiar para el parcial (Martes 8/4).
 
 ## Computación en Internet II
 - [x] Entregar proyecto web (Domingo 9/2).
@@ -40,6 +45,8 @@
 - [x] Hacer las funcionalidades de la S6 (Martes 25/2).
 - [x] Terminar el taller (Jueves 6/3).
 - [x] Terminar taller JPA (Viernes 28/3).
+- [x] Subir war con código de estudiante (Martes 8/4).
+- [x] Terminar taller MVC (Domingo 20/4).
 
 ## Gerencia de Proyectos
 - [x] Responder a las preguntas del Taller (Miércoles 12/2).
@@ -50,12 +57,16 @@
 - [x] Terminar cronograma de proyecto (Miércoles 5/3).
 - [x] Hacer talleres de estudio para el parcial (Miércoles 19/3).
 - [x] Hacer lecturas previas (miércoles 26/3).
-- [ ] Hacer EDT del proyecto (miércoles 2/4).
-- [ ] Hacer lecturas (miércoles 2/4).
+- [x] Hacer EDT del proyecto (miércoles 2/4).
+- [x] Hacer lecturas (miércoles 2/4).
+- [x] Instalar Project (miércoles 9/4).
+- [x] Hacer primera parte del taller de Intu (miércoles 23/4).
+- [x] Hacer segunda parte del taller de Intu (miércoles 23/4).
 
 ## Electiva Ética
 - [x] Resumir el texto de 28 páginas que mandó el profesor para Kahoot (Viernes 14/3).
-- [ ] Preparar trabajo final.
+- [x] Preparar trabajo final.
+- [x] Presentar trabajo final.
 
 ## Innovación y Emprendimiento II
 - [x] Formar los grupos y definir un tema de proyecto (Viernes 14/2).
@@ -64,21 +75,25 @@
 - [x] Entregar video primer corte (Sábado 8/3).
 - [x] Hacer diagrama de flujo (Viernes 21/3).
 - [x] Terminar de hacer los Wireframes (Viernes 28/3).
-- [ ] Entregar video segundo corte (Sábado 5/3).
+- [x] Entregar video segundo corte (Domingo 6/3).
+- [x] Hacer tarjetas de prueba (Viernes 25/3).
 
 ## Semillero
 - [x] Corregir el error del back de Forms.
 - [x] Seguir avanzando en el desarrollo de los formularios.
 - [x] Revisar el error de OJS.
 - [x] Terminar las HU.
+- [x] Hacer nuevas HU.
 
 ## Monitoria
 - [x] Calificar quiz.
 - [x] Calificar Seguimiento 1 - Ensayo
 - [x] Calificar Seguimiento 2 - Horn
 - [x] Calificar Seguimiento 3 - Prolog
-- [ ] Calificar Seguimiento 4 - Prolog
-- [ ] Calificar Tarea 2 - Prolog
+- [x] Calificar Seguimiento 4 - Prolog
+- [x] Calificar Tarea 2 - Prolog
+- [x] Calificar Seguimiento 5 - Python
+- [ ] Calificar TI 1
 
 ## CP
 - [x] [Introduction to Prefix Sums · USACO Guide](https://usaco.guide/silver/prefix-sums?lang=cpp)

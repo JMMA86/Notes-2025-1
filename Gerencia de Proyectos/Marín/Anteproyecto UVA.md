@@ -1,0 +1,12 @@
+## Variación total
+16 días más de lo planeado.
+
+## Costo total del proyecto
+Hasta ahora, se lleva un costo total de proyecto de $\$9.156.000$.
+
+## Informe de Seguimiento
+El seguimiento actual del proyecto "ANTEPROYECTO UVA" muestra un avance general del 54%, indicando que el proyecto se encuentra en ejecución y ha completado más de la mitad de su duración programada. La duración real acumulada es de 28,39 días, con una duración restante estimada de 24,61 días, lo cual sugiere que, hasta el momento, el cronograma general no presenta desviaciones críticas. Las fases iniciales del proyecto han sido ejecutadas con éxito, cumpliendo con los tiempos previstos o presentando variaciones mínimas. Entre estas se destacan tareas como el inicio del anteproyecto, la reunión formal de apertura, la creación del comité de participación ciudadana y las actividades de promoción y conformación del comité, todas ellas completadas al 100% y con registros adecuados de inicio y finalización.
+
+Sin embargo, el proyecto presenta señales de alerta en algunas tareas en ejecución y otras que aún no han comenzado. La tarea "Selección de líderes", correspondiente a la fase de contratación, muestra un avance del 75% y ha consumido ya 22,5 días de los 30 planeados, siendo marcada como "MAL" en la columna de seguimiento. Esto evidencia un retraso en su ejecución que podría afectar tareas sucesoras si no se toman medidas correctivas. Además, se observa que la "Formalización de contratación de líderes", que debía iniciar el 4/03/50, aún no ha comenzado, al igual que toda la fase de "Capacitación de líderes", la cual tiene una fecha de inicio prevista para el 10/02/50 y aún no presenta avances.
+
+En cuanto al aspecto financiero, el proyecto ha ejecutado un total de $9.156.000, concentrados principalmente en la selección y formación del comité y en la contratación parcial de líderes. El trabajo real acumulado asciende a 908 horas, lo cual es coherente con el nivel de avance actual. En resumen, aunque el proyecto mantiene una ejecución controlada en términos generales, es necesario realizar ajustes inmediatos en las tareas críticas que presentan demoras, especialmente en las etapas de contratación y capacitación, para evitar comprometer los tiempos y costos proyectados en el tramo final. Se recomienda una revisión del cronograma y la reasignación de recursos para mitigar riesgos de incumplimiento.
